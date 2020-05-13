@@ -141,8 +141,8 @@
 		transition: all 0.2s ease;
 		display: inline-block;
 		background: $theme-btn-white-bg !important;
-		color: $base-color2 !important;
-		border: 1px solid $base-color2 !important;
+		color: $base-color !important;
+		border: 1px solid $base-color !important;
 		text-transform: uppercase;
 		border-radius: 3px !important;
 		height: auto;
@@ -159,11 +159,11 @@
 		}
 
 		&:focus:hover {
-			background: $base-color2-hover !important;
+			background: $theme-btn-bg-hover !important;
 		}
 
 		&:hover {
-			background: $base-color2-hover !important;
+			background: $theme-btn-bg-hover !important;
 			color: $theme-btn-white-text-color-hover !important;
 		}
 	}
@@ -173,11 +173,11 @@
 		line-height: 14px;
 		text-shadow: none;
 		padding: 5px;
-		border-color: $base-color2 !important;
+		border-color: $base-color !important;
 
 		&:hover {
-			background: $base-color2-hover !important;
-			border-color: $base-color2-hover !important;
+			background: $theme-btn-bg-hover !important;
+			border-color: $theme-btn-bg-hover !important;
 		}
 	}
 
