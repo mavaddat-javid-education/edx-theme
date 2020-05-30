@@ -54,8 +54,7 @@ Open [WSL2](https://github.com/microsoft/WSL2-Linux-Kernel) shell and start your
 If you need to connect remotely (pretend server resides at `edx-marvel.raccoongang.com` and you can connect username `ubuntu`), open Terminal and go to your Open edX server via SSH by running a
 command:  `ssh ubuntu@edx-marvel.raccoongang.com`
 
-
-### <a name="#step-3"></a>Step \#3
+##### <a name="#step-3"></a>Step \#3
 
 Assuming you chose the theme branch `marvel-yellow-theme-eucalyptus` in [Step \#1](#step1), run these commands one by one:
 
@@ -65,9 +64,9 @@ Assuming you chose the theme branch `marvel-yellow-theme-eucalyptus` in [Step \#
 
 `./update_theme.sh marvel-yellow-theme-eucalyptus`
 
-### <a name="#step-4"></a>[Step \#4]
+##### <a name="#step-4"></a>[Step \#4]
 
-Now's the time to enjoy! Go and check how awesome your Open edX looks like. Please feel free to customize your
+Now's time to enjoy! Go check how awesome your Open edX looks like. Please feel free to customize your
 theme.
 
 ------------------------------------------------------------------------
