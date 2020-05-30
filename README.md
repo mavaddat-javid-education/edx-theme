@@ -21,8 +21,8 @@ Everything else the script will do for you.
 
 ##### <a name="#step-1"></a>Step \#1
 
-Choose a theme. You can try the themes on from the
-[home](https://themex.io/) page. Or you can find the available themes
+Choose a theme. You can try the themes on the @raccoongang 
+[themex.io](https://themex.io/) page. Or you can find the available themes
 and their Open edX version from the list below:
 
 -   Open edX Dogwood fullstack version
