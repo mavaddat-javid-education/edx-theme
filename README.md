@@ -64,7 +64,7 @@ Assuming you chose the theme branch `marvel-yellow-theme-eucalyptus` in [Step \#
 
 `./update_theme.sh marvel-yellow-theme-eucalyptus`
 
-##### <a name="#step-4"></a>[Step \#4]
+##### <a name="#step-4"></a>Step \#4
 
 Now's time to enjoy! Go check how awesome your Open edX looks like. Please feel free to customize your
 theme.
